@@ -1,0 +1,10 @@
+# node.js
+node_modules/
+npm-debug.log
+log/**/*.*
+.vscode/**/*.*
+.idea/**/*.*
+
+# vim
+*.swp
+
